@@ -1,8 +1,7 @@
 # University E-Portfolio 
 
-# ePortifolio MSc Essex
 
-This ePortfolio was carefully designed to exhibit the result of my MSc studies in Computer Science at the University of Essex, UK.  
+I have created this E-portfolio is display my work and progress during my Computer Science MSc at This ePortfolio was carefully designed to exhibit the result of my MSc studies  at the University of Essex.  
  
 Please see my E-Portfolio here: [my ePortfolio](https://gclarke95.github.io/University/)
 
