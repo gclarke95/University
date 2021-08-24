@@ -36,3 +36,19 @@ Please see my E-Portfolio [here:](https://gclarke95.github.io/University/)
 * Unit 10: From Distributed Computing to Microarchitectures
 * Unit 11: Future trends in Secure Software Development
 * Unit 12:The Great Tanenbaum-Torvalds Debate Revisited
+
+
+## Module 2: Object-oriented Information Systems
+### Content Summary
+* Unit 1:Introduction to Information Systems
+* Unit 2:Information Systems and their Importance
+* Unit 3:Fundamentals of Object-Oriented Design
+* Unit 4:Object-Oriented Development and Python
+* Unit 5:Understanding UML
+* Unit 6:Hands-on with UML
+* Unit 7:Database Design
+* Unit 8:Hands-on with Database Design
+* Unit 9:Implementing Database with SQL
+* Unit 10:Working with SQL
+* Unit 11:Web Development in Python
+* Unit 12:The Future of Information Systems
